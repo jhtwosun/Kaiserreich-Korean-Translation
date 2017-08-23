@@ -2,22 +2,22 @@
 
 ### Ideas ###
 
-CAN_nrc_idea:0 "National Research Council"
-CAN_nrc_idea_desc:0 "The National Research Council is critical to all the research efforts in our country. With expanded funding and some political support, this allows us to boost our entire scientific community and secure the loyalty of a few important research teams."
+CAN_nrc_idea:0 "국가 연구위원회"
+CAN_nrc_idea_desc:0 "국가 연구위원회는 우리나라의 모든 연구 노력에 결정적인 역할을합니다. 자금 지원 확대와 일부 정치적 지원으로 우리는 과학 공동체 전체를 활성화시키고 일부 중요한 연구팀의 충성도를 확보 할 수 있게 됩니다."
 
-CAN_work_camps:0 "Work Relief Camps"
-CAN_work_camps_desc:0 "While the concept of a work camp might not be very attractive to the average citizen, it is simply better than unemployment. By providing plentiful and meaningful work, we can begin ambitious infrastructure projects while letting our people benefit directly."
+CAN_work_camps:0 "직업 구호 캠프"
+CAN_work_camps_desc:0 "노동 캠프의 개념은 일반 시민들에게는 그리 매력적이지 않을 수도 있지만 단순히 실업보다 낫습니다. 풍부하고 의미있는 일을 제공함으로써 우리는 야심찬 인프라 프로젝트를 시작할 수 있으며 사람들에게 직접 혜택을 줄 수 있습니다."
 
-CAN_howes_conversion:0 "Howe's Plan"
-CAN_howes_conversion_desc:0 "The issues of our military industry in the Weltkrieg has made it patently obvious that we must promote government intervention in the arms industry. As according to C.D Howe, we will subsidise most of these factories to ensure a full economic mobilisation on the eve of another conflict and maximised production even in peacetime."
+CAN_howes_conversion:0 "하우의 계획"
+CAN_howes_conversion_desc:0 "세계대전에서 우리의 군수 산업의 문제는 무기 산업에 대한 정부의 개입을 촉진해야한다는 것을 분명히 보여주었습니다. C.D 하우에 따르면, 우리는 다른 충돌이 일어나기 전날 완전한 경제 동원을 가능하게 하고 평시에도 생산력을 극대화하기 위해 대부분의 공장에 보조금을 지급 할 것입니다."
 
-CAN_bill_c_7_debate:0 "The Bill C-7 Debate"
-CAN_bill_c_7_debate_desc:0 "Certainly more than the average parliamentary debate, the Bill C-7 Debate might very well change the path of Canada for the future to come. All of the energy and influence of the political sphere is being spent in this single debate, preventing us from attending to other matters"
+CAN_bill_c_7_debate:0 "C-7 법안 논쟁"
+CAN_bill_c_7_debate_desc:0 "C-7 법안 논쟁은 평범한 의회 논쟁보다 확실히 미래의 캐나다 길을 바꿀 것입니다. 정치적 영역의 모든 에너지와 영향력은이 단일 토론에서 소비되고 있으며, 우리가 다른 문제에 관여하는것을 방해합니다."
 
-CAN_divided_nation:0 "Divided Government"
-CAN_divided_nation_desc:0 "Our government is deeply divided on many levels and there is constant bickering between the major parties. Even outside of that, there is also a clear split between English exiles, aiming to make Canada the springboard of their reconquest of the mainland, and Canadian nationals, tired of their antics and anti-parliamentarism. This is completely paralysing our current government."
+CAN_divided_nation:0 "분열된 정부"
+CAN_divided_nation_desc:0 "우리 정부는 여러 입장으로 나뉘어져 있으며, 주요 정당들 사이에선 끊임없는 언쟁이 벌어지고 있습니다. 그 밖에, 캐나다를 본토 재정복의 발판으로 삼고 싶어하는 영국의 망명자들과 그들의 기행과 반공주의에 지친 캐나다 국민들 사이에 분명한 분열도 있습니다. 이는 현 정부를 완전히 마비시키고 있습니다."
 
-CAN_country_united:0 "Unified Government"
+CAN_country_united:0 "통일된 정부"
 CAN_country_united_desc:0 "While the democratic process is alive and well, we have finally reached some sort of agreement on a common course for our country. With the fever dreams of an all-powerful English monarch doused, Canadian politicians are finally willing to support our cause."
 
 CAN_mounties:0 "The Mounties"
@@ -26,11 +26,11 @@ CAN_mounties_desc:0 "In accordance with the Tories, the Royal Canadian Mounted P
 king_new_companies:0 "New Crown Corporations"
 king_new_companies_desc:0 "Strategic state investments in our country's industry allows us to rapidly and efficiently industrialise the vast Canadian lands without having to bear the responsibility of a nationalised industry. However, as the funds allocated dry up, the effects of this policy will eventually fade."
 
-quebec_riots:0 "Riots in Quebec"
-quebec_riots_desc:0 "The people of Quebec, confronted with the news of our patriotic war, have refused to defend their nation and instead have taken to the streets to protest. While some of them merely state that Canada, especially a Canada ruled by English elites, is not their nation, we know better than to believe those deserters and cowards."
+quebec_riots:0 "퀘벡의 폭동"
+quebec_riots_desc:0 "우리의 애국 전쟁의 뉴스을 접한 퀘벡 사람들은 자국을 지키기를 거부하고 거리에 항의하기로했습니다. 그들 중 일부는 캐나다, 특히 영국인 엘리트가 통치하는 캐나다는 그들의 나라가 아니라고 말하고 있지만, 우리는 그 탈영자와 겁쟁이를 믿을만큼 어리석지 않습니다."
 
-anglo_french_tensions:0 "Anglo-French Tensions"
-anglo_french_tensions_desc:0 "Tensions are high in Quebec as the old rivalries between Anglo-Canadians and French-Canadians continue to flare due to the exile of the English government and the generally pitious international situation of the French and English peoples. Unpopular measures like mass conscription could provoke riots, or worse."
+anglo_french_tensions:0 "영국계-프랑스계 긴장"
+anglo_french_tensions_desc:0 "영국 정부의 망명과 전반적으로 좋지 않은 프랑스, 영국의 국제 정세로 인해, 영국계 캐나다인과 프랑스계 캐나다인의 오랜 경쟁 의식이 계속 확산함에 따라, 퀘벡 주의 긴장도가 높아지고 있습니다. 대규모 징병과 같이 인망 없는 조치는 폭동, 아니면 그보다 더 심한 사태를 유발할 수 있습니다."
 
 CAN_winter_soldiers:0 "Cold Weather Training"
 CAN_winter_soldiers_desc:0 "There are few places on earth with as harsh an environment as Northern Canada. We should establish barracks in the outback to serve as training utilities to accustom our soldiers to harsher climates. While this might upset new recruits, they will thank us when they see their enemies freeze to death before them without firing a shot."
@@ -228,55 +228,55 @@ CAN_threaten_DEN:0 "Canada claims Danish overseas territory"
 
 ### Focuses ###
 
-CAN_isac:0 "Create the ISAC"
-CAN_isac_desc:0 "A number of university presidents and scientific leaders meeting in Toronto have called for the formation of a new organisation to co-ordinate research among the member states of the British Empire. The work of co-coordinating these links is to be carried out by the Imperial Scientific and Academic Council, located and funded by Canada, with contributions from the rest of the Entente"
+CAN_isac:0 "ISAC 설립"
+CAN_isac_desc:0 "토론토에서 열린 다수의 대학 총장과 과학 지도자들은 대영 제국 회원국 간의 연구 협력을 위한 새로운 기구의 설립을 요청했습니다. 이 관계를 통합하는 작업은 캐나다와 다른 협상국의 지원을 받는, 캐나다의 제국 과학 학회 위원회에서 수행하기로 했습니다."
 
-CAN_works:0 "Public Works"
-CAN_works_desc:0 "New infrastructure and development projects and other public works will help relieve the worst, lasting effects of the Great Depression and provide valuable experience and expertise for our nascent industry. Over time, we might very well find ourselves in a new economic boom, one we will profit from rapidly."
+CAN_works:0 "공공 사업"
+CAN_works_desc:0 "새로운 인프라 및 개발 프로젝트 및 기타 공공 사업은 대공황의 최악의 여파를 완화하고 초기 산업에 귀중한 경험과 전문 지식을 제공하는 데 도움이 됩니다. 시간이 지남에 따라 우리는 새로운 경제 호황을 누릴 수 있습니다. 우리는 빠르게 이익을 얻을 것입니다."
 
-CAN_cbc:0 "Found the CBC"
+CAN_cbc:0 "CBC 설립"
 CAN_cbc_desc:0 "A proposal has been put forward to expand the Canadian Radio Broadcasting Commission into a full-fledged national radio network called the Canadian Broadcasting Corporation. This would help bring together a divided nation, and limit the influence of potentially subversive foreign broadcasts."
 
-CAN_production:0 "Modernise Production"
+CAN_production:0 "현대화된 생산 시설"
 CAN_production_desc:0 "Investing in the development of new production techniques will make our industry more efficient and productive. This, in turn will help revive and revitalise our fledgling economy and ensure its long term prosperity."
 
 CAN_polycorp:0 "Polymer Corporation"
 CAN_polycorp_desc:0 "The Polymer Corporation, or Polycorp, is a crown corporation tasked with the development and production of new materials like nylon and synthetic rubber. These new materials will allow us to discover new ways to produce equipment that has until then proved a problem for our industry, making them cheaper and faster to output."
 
-CAN_factory:0 "Crown Corporations"
+CAN_factory:0 "왕립 기업"
 CAN_factory_desc:0 "Enterprises founded and run by the state, so-called 'Crown Corporations', allow us to develop and maintain access to strategic resources and expertise that might otherwise by neglected or ignored by the market. Sadly, not every industrial magnate sees the use of investing in wartime resources, at least for now."
 
-CAN_factory3:0 "National Housing Act"
+CAN_factory3:0 "국민주택법"
 CAN_factory3_desc:0 "Housing is a both a basic necessity and a major source of economic activity. By providing incentives for the construction and purchase of homes, we can create demand for key industries and promote expansion of the industrial economy as a whole."
 
-CAN_infra:0 "CN Rail Expansion"
+CAN_infra:0 "CN 철도 확장"
 CAN_infra_desc:0 "Rail networks are the arteries of the nation of Canada, and none more so than the state-run Canadian National Railway. Expanding this network can only strengthen the nation, and it will surely prove crucial should we need to perform wartime supply and troops transport across the nation."
 
-CAN_aircanada:0 "Trans-Canada Airlines"
+CAN_aircanada:0 "Trans-Canada 항공사"
 CAN_aircanada_desc:0 "A national airline service will help unify this vast and scattered nation in a way that roads and railways cannot due to sheer size, terrain or weather. The infrastructure, organisation and training developed for this project could also have military applications in the future."
 
-CAN_infra2:0 "Subsidise CP Rail"
+CAN_infra2:0 "CP Rail에 보조금 지원"
 CAN_infra2_desc:0 "It was only the promise of a trans-continental rail network that brought the western provinces into the Dominion. Maintaining and expanding this network will help ensure our continued control over the region, and will serve us should we ever require large-scale fret between both seas."
 
-CAN_infra_3:0 "Maritime Rail Expansion"
+CAN_infra_3:0 "해양 철도 확장"
 CAN_infra_3_desc:0 "The likely site of any invasion from Europe, and the launch point of any attempt to reclaim the Home Islands, the maritime provinces and their infrastructure are a critical national security concern. We must ensure that no amount of supplies or troops going through causes issues."
 
-CAN_resource:0 "Invest in Natural Resources"
+CAN_resource:0 "천연 자원 투자"
 CAN_resource_desc:0 "Much of the nation's wealth lies in its untapped natural resources. While prospecting and exploiting all those deposits hidden in Canada's wasts and wilderness will take time, we can take advantage of this natural bounty to ensure our strength and independence."
 
-CAN_mine:0 "Explore the North"
+CAN_mine:0 "북쪽 탐험"
 CAN_mine_desc:0 "Before we can mine it, we have to find it. While the large forests have long been explored by civilian prospectors, only state-funded geological expeditions will dare venture into the Arctic and sub-Arctic regions to identify the best sites for excavation and extraction."
 
-CAN_oil:0 "Prairie Oil Prospects"
+CAN_oil:0 "대초원 석유 조사"
 CAN_oil_desc:0 "There has been small scale drilling in the prairies of Alberta and Saskatchewan for a while. But perhaps there is more of this critical resource waiting for those who bother to look. Perhaps we might even be sitting on fields of oil that would rival the US' current monopoly in America?"
 
-CAN_rocketfuel:0 "Solid Propellants"
+CAN_rocketfuel:0 "고체 추진제"
 CAN_rocketfuel_desc:0 "Research into synthetic materials has yielded unexpected developments in stable solid-state combustibles. More research in this direction could be a great boon to military rocket development. This, in turn, could turn a new page of warfare, with rockets turning into the new bombers."
 
-CAN_uranium:0 "Northern Uranium Deposits"
+CAN_uranium:0 "북부 우라늄 매장지"
 CAN_uranium_desc:0 "We've identified a large supply of Uranium in the Arctic regions, with the biggest pockets situated in our Northwest Territories. This resource has become critical in the developing field of atomic energy, used as a 'fuel' of sorts, and production of it on this scale will give us a leading edge in atomic research and construction. Or maybe even more."
 
-CAN_nrc:0 "National Research Council"
+CAN_nrc:0 "국가 연구 위원회"
 CAN_nrc_desc:0 "The National Research Council was founded during the Weltkrieg to advise the Canadian government on science and research. By providing the organisation with additional funding and support we can expand our technology base to the benefit of both industry and military."
 
 CAN_nightwatch:0 "The Night Watchmen"
